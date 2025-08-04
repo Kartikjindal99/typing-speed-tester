@@ -18,7 +18,7 @@ A clean and minimal typing test app built using HTML, CSS, and JavaScript. Track
 
 ## 🌐 Live Demo
 
-👉 [Try it on GitHub Pages](https://yourusername.github.io/typing-speed-tester)
+👉 [Try it on GitHub Pages](https://kartikjindal99.github.io/typing-speed-tester/)
 
 > Replace the link with your GitHub Pages URL after deployment.
 
@@ -47,4 +47,4 @@ typing-speed-tester/
 ## 🧑‍💻 Author
 
 Made with ❤️ by **Kartik Jindal**  
-🔗 [GitHub](https://github.com/kartikjindal)
+🔗 [GitHub](https://github.com/kartikjindal99)
