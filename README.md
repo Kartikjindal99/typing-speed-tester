@@ -12,15 +12,12 @@ A clean and minimal typing test app built using HTML, CSS, and JavaScript. Track
 
 ## 🖼 Preview
 
-> *(Add your app screenshot below as `preview.png`)*
 
 ![Typing Test Preview](preview.png)
 
 ## 🌐 Live Demo
 
 👉 [Try it on GitHub Pages](https://kartikjindal99.github.io/typing-speed-tester/)
-
-> Replace the link with your GitHub Pages URL after deployment.
 
 ## 📁 Project Structure
 
@@ -38,13 +35,6 @@ typing-speed-tester/
 - CSS3
 - JavaScript (Vanilla)
 
-## ✨ Upcoming Features
-
-- Dark mode toggle 🌙
-- High score tracking 📈
-- Typing analytics dashboard 📊
-
 ## 🧑‍💻 Author
-
 Made with ❤️ by **Kartik Jindal**  
 🔗 [GitHub](https://github.com/kartikjindal99)
